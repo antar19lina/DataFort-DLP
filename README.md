@@ -11,6 +11,8 @@ ________________________________________________________________________________
 Many small and mid-sized businesses lack affordable, transparent DLP solutions.
 DataFort is being designed as a lightweight, explainable DLP platform focused on
 file-level visibility, policy-driven detection, and audit-ready reporting.
+
+```
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ```
 ## 📦 Product Status
