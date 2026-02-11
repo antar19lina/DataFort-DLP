@@ -1,7 +1,5 @@
 # DataFort: Enterprise Data Loss Prevention DLP Platform
 DataFort is an enterprise-focused Data Loss Prevention (DLP) and insider risk monitoring platform that provides real-time file activity tracking, sensitive data classification, policy-based alerting, and audit-ready logging for business environments.
-```text
-_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ```
 
 🚧 Project Status: Ongoing — Initial design & architecture phase
@@ -14,7 +12,7 @@ file-level visibility, policy-driven detection, and audit-ready reporting.
 
 ```
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________
-```
+```text
 ## 📦 Product Status
 **Development Stage:** Active (Ongoing Product)  
 **Deployment Model:** Endpoint Agent (Local)  
@@ -158,6 +156,7 @@ ____________________________________________________________
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 📜 Compliance Considerations
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________
+```
 ```
 - DataFort supports enterprise compliance efforts by maintaining:
 
