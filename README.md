@@ -120,7 +120,7 @@ DataFort/
 ```
 
 ## 📈 Operational Flow
-```
+``` 
 sequenceDiagram
     participant E as Endpoint
     participant A as Agent
