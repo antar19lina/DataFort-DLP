@@ -1,0 +1,49 @@
+2026-05-27 00:39:32,461 - INFO - File Monitoring Agent started...
+2026-05-27 00:39:32,864 - INFO - File modified: .\file_monitoring.log
+2026-05-27 00:39:32,864 - INFO - File modified: .\file_monitoring.log
+2026-05-27 00:39:33,257 - INFO - File modified: .\file_monitoring.log
+2026-05-27 00:39:33,258 - INFO - File modified: .\file_monitoring.log
+2026-05-27 00:39:33,659 - INFO - File modified: .\file_monitoring.log
+2026-05-27 00:39:33,659 - INFO - File modified: .\file_monitoring.log
+2026-05-27 00:39:34,082 - INFO - File modified: .\file_monitoring.log
+2026-05-27 00:39:34,082 - INFO - File modified: .\file_monitoring.log
+2026-05-27 00:39:34,083 - INFO - File modified: .\file_monitoring.log
+2026-05-27 00:39:34,475 - INFO - File modified: .\file_monitoring.log
+2026-05-27 00:39:34,477 - INFO - File modified: .\file_monitoring.log
+2026-05-27 00:39:34,477 - INFO - File modified: .\file_monitoring.log
+2026-05-27 00:39:34,869 - INFO - File modified: .\file_monitoring.log
+2026-05-27 00:39:34,869 - INFO - File modified: .\file_monitoring.log
+2026-05-27 00:39:34,870 - INFO - File modified: .\file_monitoring.log
+2026-05-27 00:39:35,266 - INFO - File modified: .\file_monitoring.log
+2026-05-27 00:39:35,267 - INFO - File modified: .\file_monitoring.log
+2026-05-27 00:39:35,267 - INFO - File modified: .\file_monitoring.log
+2026-05-27 00:39:35,458 - INFO - File Monitoring Agent stopped.
+2026-05-27 00:48:05,223 - INFO - File Monitoring Agent started...
+2026-05-27 00:48:45,751 - INFO - File Monitoring Agent stopped.
+2026-05-27 00:48:51,662 - INFO - File Monitoring Agent started...
+2026-05-27 00:50:58,988 - INFO - File modified: .\AGENT\file_monitoring.py
+2026-05-27 00:50:58,989 - INFO - File modified: .\AGENT\file_monitoring.py
+2026-05-27 00:51:06,783 - INFO - File Monitoring Agent stopped.
+2026-05-27 00:51:14,254 - INFO - File Monitoring Agent started...
+2026-05-27 00:55:23,007 - INFO - File Monitoring Agent stopped.
+2026-05-27 00:55:55,456 - INFO - File Monitoring Agent started...
+2026-05-27 01:02:02,608 - INFO - File Monitoring Agent stopped.
+2026-05-27 01:02:06,272 - INFO - File Monitoring Agent started...
+2026-05-27 01:03:24,875 - INFO - File modified: .\REGEX\detector.py
+2026-05-27 01:03:24,944 - INFO - File modified: .\REGEX\detector.py
+2026-05-27 01:03:47,026 - INFO - File Monitoring Agent stopped.
+2026-05-27 01:03:51,187 - INFO - File Monitoring Agent started...
+2026-05-27 01:05:36,436 - INFO - File modified: .\AGENT\file_monitoring.py
+2026-05-27 01:05:36,486 - INFO - File modified: .\AGENT\file_monitoring.py
+2026-05-27 01:05:47,112 - INFO - File Monitoring Agent stopped.
+2026-05-27 01:05:48,250 - INFO - File Monitoring Agent started...
+2026-05-27 01:07:26,394 - INFO - File modified: .\AGENT\file_monitoring.py
+2026-05-27 01:07:26,451 - INFO - File modified: .\AGENT\file_monitoring.py
+2026-05-27 01:09:10,318 - INFO - File modified: .\AGENT\file_monitoring.py
+2026-05-27 01:09:10,353 - INFO - File modified: .\AGENT\file_monitoring.py
+2026-05-27 01:10:44,802 - INFO - File modified: .\AGENT\file_monitoring.py
+2026-05-27 01:10:44,841 - INFO - File modified: .\REGEX\detector.py
+2026-05-27 01:10:44,872 - INFO - File modified: .\AGENT\file_monitoring.py
+2026-05-27 01:11:21,819 - INFO - File Monitoring Agent stopped.
+2026-05-27 01:11:29,867 - INFO - File Monitoring Agent started...
+2026-05-27 01:11:35,854 - INFO - File Monitoring Agent stopped.
