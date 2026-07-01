@@ -1,0 +1,28 @@
+[{
+        "id": 1,
+        "name": "Block PAN Numbers",
+        "classification": "PAN",
+        "severity": "high",
+        "action": "block",
+        "notify": ["email", "slack"],
+        "log": true
+    },
+    {
+        "id": 2,
+        "name": "Alert on Confidential Docs",
+        "classification": "Confidential",
+        "severity": "medium",
+        "action": "alert",
+        "notify": ["slack"],
+        "log": true
+    },
+    {
+        "id": 3,
+        "name": "Log Public Files",
+        "classification": "Public",
+        "severity": "low",
+        "action": "log",
+        "notify": [],
+        "log": true
+    }
+]
